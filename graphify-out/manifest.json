@@ -1,0 +1,56 @@
+{
+  ".vscode/extensions.json": {
+    "mtime": 1789312958.4645271,
+    "seen": 1789315704.046458,
+    "ast_hash": "a9819ba4d76ccd81cf1f7b18e06c77d0",
+    "semantic_hash": "a9819ba4d76ccd81cf1f7b18e06c77d0"
+  },
+  ".vscode/launch.json": {
+    "mtime": 1789312958.4657607,
+    "seen": 1789315704.0464609,
+    "ast_hash": "b939dea735cf9d32842d6a2c44474427",
+    "semantic_hash": "b939dea735cf9d32842d6a2c44474427"
+  },
+  ".vscode/settings.json": {
+    "mtime": 1789312958.4653776,
+    "seen": 1789315704.046462,
+    "ast_hash": "a6240f080d985b7d50acb6e7c6f7c969",
+    "semantic_hash": "a6240f080d985b7d50acb6e7c6f7c969"
+  },
+  "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs": {
+    "mtime": 1738264777.0,
+    "seen": 1789315704.046463,
+    "ast_hash": "495d312368d1780508d6f46f0b35705c",
+    "semantic_hash": "495d312368d1780508d6f46f0b35705c"
+  },
+  "Assets/TutorialInfo/Scripts/Readme.cs": {
+    "mtime": 1738264777.0,
+    "seen": 1789315704.046464,
+    "ast_hash": "927655e7fd40aab43030236dee149080",
+    "semantic_hash": "927655e7fd40aab43030236dee149080"
+  },
+  "Packages/manifest.json": {
+    "mtime": 1789312842.97004,
+    "seen": 1789315704.046465,
+    "ast_hash": "31bdfdde62ee04ad94bda4af23e66e39",
+    "semantic_hash": "31bdfdde62ee04ad94bda4af23e66e39"
+  },
+  "Packages/packages-lock.json": {
+    "mtime": 1789312866.1870942,
+    "seen": 1789315704.046466,
+    "ast_hash": "c7b3d4e9dfe7837db55a23ee97085d8a",
+    "semantic_hash": "c7b3d4e9dfe7837db55a23ee97085d8a"
+  },
+  "ProjectSettings/SceneTemplateSettings.json": {
+    "mtime": 1789313595.3127701,
+    "seen": 1789315704.0464761,
+    "ast_hash": "eeb26e313b89cd9334b828428a4847ef",
+    "semantic_hash": "eeb26e313b89cd9334b828428a4847ef"
+  },
+  "mono_crash.0.0.json": {
+    "mtime": 1789315574.284929,
+    "seen": 1789315704.046477,
+    "ast_hash": "ecc88add7cad5def4f04f8a91687c4bf",
+    "semantic_hash": "ecc88add7cad5def4f04f8a91687c4bf"
+  }
+}
